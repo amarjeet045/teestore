@@ -1,0 +1,1310 @@
+[
+  {
+    "products": [],
+    "Logs": {
+      "08AFPPR3132N1ZV": {
+        "lg": "",
+        "dst": "Bikaner",
+        "lt": "",
+        "office": "NAMAH SHIVAY TEX  ENTERPRISES",
+        "bno": "J-58",
+        "stcd": "Rajasthan",
+        "loc": "BIKANER",
+        "city": "",
+        "pncd": "334001",
+        "bnm": "",
+        "st": "KARNI INDUSTRIAL AREA AGRO BLOCK",
+        "flno": ""
+      },
+      "pan": "AFPPR3132N"
+    },
+    "report": "type",
+    "activityName": "BIKANER [object Object]",
+    "status": "CONFIRMED",
+    "schedule": [
+      { "startTime": 0, "endTime": 0, "name": "Holiday 1" },
+      { "startTime": 0, "name": "Holiday 2", "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 3", "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 4" },
+      { "startTime": 0, "name": "Holiday 5", "endTime": 0 },
+      { "name": "Holiday 6", "startTime": 0, "endTime": 0 },
+      { "name": "Holiday 7", "endTime": 0, "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 8", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 9", "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 10", "endTime": 0 },
+      { "endTime": 0, "name": "Holiday 11", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 12", "endTime": 0 },
+      { "endTime": 0, "name": "Holiday 13", "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 14" },
+      { "name": "Holiday 15", "endTime": 0, "startTime": 0 }
+    ],
+    "template": "customer",
+    "createTimestamp": 1675703690273,
+    "attachment": {
+      "GST Number": { "type": "string", "value": "08AFPPR3132N1ZV" },
+      "Name": { "type": "string", "value": "BIKANER [object Object]" },
+      "Vendor Code": { "value": "", "type": "string" },
+      "Daily Start Time": { "value": "", "type": "HH:MM" },
+      "First Contact": { "value": "+918619544208", "type": "phoneNumber" },
+      "Address": {
+        "type": "string",
+        "value": "J-58  , KARNI INDUSTRIAL AREA AGRO BLOCK BIKANER, Rajasthan, 334001"
+      },
+      "Supplier Address": { "value": "", "type": "string" },
+      "First Contact Email": {
+        "type": "string",
+        "value": "nshivatexenterprises@gmail.com"
+      },
+      "TDS": { "value": "", "type": "number" },
+      "Place ID": { "type": "string", "value": "" },
+      "First Contact Name": { "value": "Suraj", "type": "string" },
+      "Weekly Off": { "value": "", "type": "weekday" },
+      "Moratium": { "value": "", "type": "number" },
+      "isTenant": { "value": "", "type": "boolean" },
+      "Daily End Time": { "type": "HH:MM", "value": "" },
+      "Early Payment Rate": { "type": "number", "value": "" }
+    },
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "T9yhYPqyDjQ2d7zZOGZq"
+        ]
+      },
+      "_converter": {}
+    },
+    "timestamp": 1675703690273,
+    "canEditRule": "ADMIN",
+    "creator": { "phoneNumber": null, "displayName": null, "photoURL": null },
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "dates": [],
+    "venue": [
+      {
+        "geopoint": { "longitude": 73.2942267, "latitude": 28.0605146 },
+        "address": "J-58  , KARNI INDUSTRIAL AREA AGRO BLOCK BIKANER, Rajasthan, 334001",
+        "location": "",
+        "venueDescriptor": "Customer Office"
+      }
+    ],
+    "dateConflict": false
+  },
+  {
+    "products": [],
+    "schedule": [
+      { "startTime": 0, "endTime": 0, "name": "Holiday 1" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 2" },
+      { "endTime": 0, "name": "Holiday 3", "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 4" },
+      { "startTime": 0, "name": "Holiday 5", "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 6" },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 7" },
+      { "endTime": 0, "name": "Holiday 8", "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 9" },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 10" },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 11" },
+      { "name": "Holiday 12", "endTime": 0, "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 13", "startTime": 0 },
+      { "name": "Holiday 14", "endTime": 0, "startTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 15" }
+    ],
+    "activityName": ". [object Object]",
+    "Logs": {
+      "08AJNPG1664J1ZY": {
+        "city": "",
+        "st": "I.G.C. KHARA",
+        "lg": "",
+        "office": "J. C. ENTERPRISES ",
+        "pncd": "334001",
+        "stcd": "Rajasthan",
+        "lt": "",
+        "flno": "",
+        "bno": "F-205",
+        "dst": "Bikaner",
+        "bnm": "",
+        "loc": "."
+      },
+      "pan": "AJNPG1664J"
+    },
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "creator": { "displayName": null, "photoURL": null, "phoneNumber": null },
+    "canEditRule": "ADMIN",
+    "status": "CONFIRMED",
+    "report": "type",
+    "venue": [
+      {
+        "location": "",
+        "geopoint": { "latitude": 28.1890801, "longitude": 73.3914997 },
+        "venueDescriptor": "Customer Office",
+        "address": "F-205  , I.G.C. KHARA ., Rajasthan, 334001"
+      }
+    ],
+    "attachment": {
+      "Early Payment Rate": { "value": "", "type": "number" },
+      "Supplier Address": { "type": "string", "value": "" },
+      "Place ID": { "type": "string", "value": "" },
+      "Moratium": { "value": "", "type": "number" },
+      "GST Number": { "type": "string", "value": "08AJNPG1664J1ZY" },
+      "First Contact Name": { "type": "string", "value": "Anshu Bansal" },
+      "Weekly Off": { "value": "", "type": "weekday" },
+      "Daily End Time": { "value": "", "type": "HH:MM" },
+      "First Contact": { "type": "phoneNumber", "value": "+919166099993" },
+      "Vendor Code": { "type": "string", "value": "" },
+      "Name": { "type": "string", "value": ". [object Object]" },
+      "Address": {
+        "value": "F-205  , I.G.C. KHARA ., Rajasthan, 334001",
+        "type": "string"
+      },
+      "isTenant": { "type": "boolean", "value": "" },
+      "First Contact Email": {
+        "value": "anshu198100@yahoo.com",
+        "type": "string"
+      },
+      "Daily Start Time": { "type": "HH:MM", "value": "" },
+      "TDS": { "value": "", "type": "number" }
+    },
+    "timestamp": 1675703211910,
+    "dates": [],
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "qGuHB59RjclY57v2erxt"
+        ]
+      },
+      "_converter": {}
+    },
+    "template": "customer",
+    "dateConflict": false,
+    "createTimestamp": 1675703211913
+  },
+  {
+    "activityName": "SANGANER [object Object]",
+    "template": "customer",
+    "status": "CONFIRMED",
+    "creator": { "displayName": null, "photoURL": null, "phoneNumber": null },
+    "Logs": {
+      "pan": "ALLPP8071A",
+      "08ALLPP8071A1ZZ": {
+        "dst": "Jaipur",
+        "city": "",
+        "lg": "",
+        "bno": "3/239",
+        "flno": "",
+        "loc": "SANGANER",
+        "st": "VYASON KA MOHALLA",
+        "lt": "",
+        "stcd": "Rajasthan",
+        "office": "KESHAV CHEMICALS",
+        "pncd": "302029",
+        "bnm": ""
+      }
+    },
+    "createTimestamp": 1675703255877,
+    "venue": [
+      {
+        "location": "",
+        "venueDescriptor": "Customer Office",
+        "geopoint": { "longitude": 75.7845801, "latitude": 26.8168143 },
+        "address": "3/239  , VYASON KA MOHALLA SANGANER, Rajasthan, 302029"
+      }
+    ],
+    "products": [],
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "N6AAuG1LCQThOZJP62jT"
+        ]
+      },
+      "_converter": {}
+    },
+    "dates": [],
+    "timestamp": 1675703255877,
+    "canEditRule": "ADMIN",
+    "schedule": [
+      { "name": "Holiday 1", "startTime": 0, "endTime": 0 },
+      { "endTime": 0, "name": "Holiday 2", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 3", "endTime": 0 },
+      { "endTime": 0, "name": "Holiday 4", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 5", "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 6" },
+      { "endTime": 0, "name": "Holiday 7", "startTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 8" },
+      { "endTime": 0, "name": "Holiday 9", "startTime": 0 },
+      { "name": "Holiday 10", "startTime": 0, "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 11" },
+      { "name": "Holiday 12", "startTime": 0, "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 13", "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 14" },
+      { "name": "Holiday 15", "startTime": 0, "endTime": 0 }
+    ],
+    "attachment": {
+      "Moratium": { "value": "", "type": "number" },
+      "Name": { "value": "SANGANER [object Object]", "type": "string" },
+      "GST Number": { "type": "string", "value": "08ALLPP8071A1ZZ" },
+      "Place ID": { "type": "string", "value": "" },
+      "TDS": { "type": "number", "value": "" },
+      "First Contact Name": { "value": "Naresh", "type": "string" },
+      "Daily End Time": { "value": "", "type": "HH:MM" },
+      "Daily Start Time": { "value": "", "type": "HH:MM" },
+      "Supplier Address": { "value": "", "type": "string" },
+      "Early Payment Rate": { "type": "number", "value": "" },
+      "Vendor Code": { "type": "string", "value": "" },
+      "First Contact Email": {
+        "value": "sales.keshav@gmail.com",
+        "type": "string"
+      },
+      "Weekly Off": { "type": "weekday", "value": "" },
+      "Address": {
+        "value": "3/239  , VYASON KA MOHALLA SANGANER, Rajasthan, 302029",
+        "type": "string"
+      },
+      "First Contact": { "type": "phoneNumber", "value": "+919887925488" },
+      "isTenant": { "value": "", "type": "boolean" }
+    },
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "report": "type",
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "dateConflict": false
+  },
+  {
+    "schedule": [
+      { "endTime": 0, "name": "Holiday 1", "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 2" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 3" },
+      { "name": "Holiday 4", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 5", "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 6", "endTime": 0 },
+      { "name": "Holiday 7", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 8" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 9" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 10" },
+      { "name": "Holiday 11", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 12" },
+      { "endTime": 0, "name": "Holiday 13", "startTime": 0 },
+      { "name": "Holiday 14", "endTime": 0, "startTime": 0 },
+      { "name": "Holiday 15", "endTime": 0, "startTime": 0 }
+    ],
+    "canEditRule": "ADMIN",
+    "activityName": "New Delhi [object Object]",
+    "timestamp": 1675703711897,
+    "venue": [
+      {
+        "geopoint": { "latitude": 28.5069585, "longitude": 77.3001208 },
+        "venueDescriptor": "Customer Office",
+        "location": "",
+        "address": "Plot No A 28 Lower Ground floor  , Mohan Co-operative Industrial Estate,Mathura road New Delhi, Delhi, 110044"
+      }
+    ],
+    "attachment": {
+      "First Contact Name": { "value": "Wasim", "type": "string" },
+      "Daily End Time": { "value": "", "type": "HH:MM" },
+      "Name": { "value": "New Delhi [object Object]", "type": "string" },
+      "isTenant": { "value": "", "type": "boolean" },
+      "TDS": { "type": "number", "value": "" },
+      "Address": {
+        "value": "Plot No A 28 Lower Ground floor  , Mohan Co-operative Industrial Estate,Mathura road New Delhi, Delhi, 110044",
+        "type": "string"
+      },
+      "Moratium": { "type": "number", "value": "" },
+      "GST Number": { "type": "string", "value": "07APMPA4853N1ZI" },
+      "Weekly Off": { "value": "", "type": "weekday" },
+      "Daily Start Time": { "type": "HH:MM", "value": "" },
+      "First Contact Email": {
+        "type": "string",
+        "value": "info@safetyzonedelhi.com"
+      },
+      "First Contact": { "value": "+919718578648", "type": "phoneNumber" },
+      "Early Payment Rate": { "type": "number", "value": "" },
+      "Supplier Address": { "value": "", "type": "string" },
+      "Vendor Code": { "value": "", "type": "string" },
+      "Place ID": { "type": "string", "value": "" }
+    },
+    "report": "type",
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "XuCxFNGMmxZp2hoIgbf8"
+        ]
+      },
+      "_converter": {}
+    },
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "dates": [],
+    "status": "CONFIRMED",
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "createTimestamp": 1675703711898,
+    "products": [],
+    "dateConflict": false,
+    "creator": { "phoneNumber": null, "displayName": null, "photoURL": null },
+    "template": "customer",
+    "Logs": {
+      "pan": "APMPA4853N",
+      "07APMPA4853N1ZI": {
+        "lt": "28.509559",
+        "st": "Mohan Co-operative Industrial Estate,Mathura road",
+        "dst": "South East Delhi",
+        "city": "",
+        "bnm": "",
+        "flno": "",
+        "office": "SAFETY ZONE",
+        "lg": "77.298028",
+        "pncd": "110044",
+        "bno": "Plot No A 28 Lower Ground floor",
+        "stcd": "Delhi",
+        "loc": "New Delhi"
+      }
+    }
+  },
+  {
+    "canEditRule": "ADMIN",
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "2TJPOwzYxG9JgC6AIsit"
+        ]
+      },
+      "_converter": {}
+    },
+    "creator": { "photoURL": null, "displayName": null, "phoneNumber": null },
+    "timestamp": 1675703732767,
+    "report": "type",
+    "Logs": {
+      "29AAGFT1457N1ZL": {
+        "lt": "",
+        "loc": "CHAMRAJPET",
+        "lg": "",
+        "dst": "Bengaluru (Bangalore) Urban",
+        "st": "9TH CROSS, 4TH MAIN",
+        "bno": "NO.134/1,",
+        "pncd": "560018",
+        "flno": "3RD FLOOR",
+        "bnm": "",
+        "city": "",
+        "office": "THE BANGALORE SALES CORPORATION",
+        "stcd": "Karnataka"
+      },
+      "pan": "AAGFT1457N"
+    },
+    "dates": [],
+    "status": "CONFIRMED",
+    "dateConflict": false,
+    "schedule": [
+      { "endTime": 0, "name": "Holiday 1", "startTime": 0 },
+      { "name": "Holiday 2", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 3" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 4" },
+      { "name": "Holiday 5", "startTime": 0, "endTime": 0 },
+      { "name": "Holiday 6", "startTime": 0, "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 7" },
+      { "endTime": 0, "name": "Holiday 8", "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 9" },
+      { "endTime": 0, "name": "Holiday 10", "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 11" },
+      { "startTime": 0, "name": "Holiday 12", "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 13" },
+      { "endTime": 0, "name": "Holiday 14", "startTime": 0 },
+      { "name": "Holiday 15", "startTime": 0, "endTime": 0 }
+    ],
+    "template": "customer",
+    "attachment": {
+      "Daily End Time": { "type": "HH:MM", "value": "" },
+      "Place ID": { "value": "", "type": "string" },
+      "Weekly Off": { "value": "", "type": "weekday" },
+      "Early Payment Rate": { "value": "", "type": "number" },
+      "Address": {
+        "type": "string",
+        "value": "NO.134/1, 3RD FLOOR , 9TH CROSS, 4TH MAIN CHAMRAJPET, Karnataka, 560018"
+      },
+      "Vendor Code": { "value": "", "type": "string" },
+      "First Contact Name": { "type": "string", "value": "Rajeev Dixit" },
+      "GST Number": { "value": "29AAGFT1457N1ZL", "type": "string" },
+      "Supplier Address": { "type": "string", "value": "" },
+      "Moratium": { "value": "", "type": "number" },
+      "First Contact": { "type": "phoneNumber", "value": "+919845185982" },
+      "TDS": { "type": "number", "value": "" },
+      "First Contact Email": {
+        "type": "string",
+        "value": "rajeev@bangaloresalescorporation.com"
+      },
+      "Name": { "type": "string", "value": "CHAMRAJPET [object Object]" },
+      "Daily Start Time": { "value": "", "type": "HH:MM" },
+      "isTenant": { "type": "boolean", "value": "" }
+    },
+    "activityName": "CHAMRAJPET [object Object]",
+    "venue": [
+      {
+        "geopoint": { "longitude": 77.54008379999999, "latitude": 12.956176 },
+        "venueDescriptor": "Customer Office",
+        "location": "",
+        "address": "NO.134/1, 3RD FLOOR , 9TH CROSS, 4TH MAIN CHAMRAJPET, Karnataka, 560018"
+      }
+    ],
+    "products": [],
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "createTimestamp": 1675703732767,
+    "officeId": "zJRYSRyBAEeqj8A3od7u"
+  },
+  {
+    "canEditRule": "ADMIN",
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "timestamp": 1675703261303,
+    "activityName": "NEEMUCH [object Object]",
+    "Logs": {
+      "23HKBPS7642A1ZA": {
+        "stcd": "Madhya Pradesh",
+        "city": "",
+        "pncd": "458441",
+        "bno": "33",
+        "lt": "",
+        "bnm": "",
+        "flno": "",
+        "lg": "",
+        "st": "INDUSTRIAL AREA",
+        "dst": "Neemuch",
+        "office": "LAXMI NIDHI AGRO",
+        "loc": "NEEMUCH"
+      },
+      "pan": "HKBPS7642A"
+    },
+    "status": "CONFIRMED",
+    "dateConflict": false,
+    "report": "type",
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "schedule": [
+      { "endTime": 0, "startTime": 0, "name": "Holiday 1" },
+      { "name": "Holiday 2", "endTime": 0, "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 3", "startTime": 0 },
+      { "name": "Holiday 4", "startTime": 0, "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 5", "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 6" },
+      { "startTime": 0, "name": "Holiday 7", "endTime": 0 },
+      { "name": "Holiday 8", "startTime": 0, "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 9", "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 10", "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 11" },
+      { "name": "Holiday 12", "startTime": 0, "endTime": 0 },
+      { "endTime": 0, "name": "Holiday 13", "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 14", "startTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 15" }
+    ],
+    "venue": [
+      {
+        "geopoint": { "latitude": 24.4775651, "longitude": 74.8697516 },
+        "address": "33  , INDUSTRIAL AREA NEEMUCH, Madhya Pradesh, 458441",
+        "venueDescriptor": "Customer Office",
+        "location": ""
+      }
+    ],
+    "attachment": {
+      "Supplier Address": { "value": "", "type": "string" },
+      "GST Number": { "value": "23HKBPS7642A1ZA", "type": "string" },
+      "First Contact Email": {
+        "value": "LAXMINIDHIAGRO@gmail.com",
+        "type": "string"
+      },
+      "Early Payment Rate": { "value": "", "type": "number" },
+      "Name": { "value": "NEEMUCH [object Object]", "type": "string" },
+      "Vendor Code": { "value": "", "type": "string" },
+      "Weekly Off": { "type": "weekday", "value": "" },
+      "Daily Start Time": { "type": "HH:MM", "value": "" },
+      "First Contact Name": { "type": "string", "value": "Sanjay" },
+      "Place ID": { "type": "string", "value": "" },
+      "isTenant": { "value": "", "type": "boolean" },
+      "Address": {
+        "value": "33  , INDUSTRIAL AREA NEEMUCH, Madhya Pradesh, 458441",
+        "type": "string"
+      },
+      "Daily End Time": { "type": "HH:MM", "value": "" },
+      "Moratium": { "value": "", "type": "number" },
+      "TDS": { "value": "", "type": "number" },
+      "First Contact": { "value": "+919399784331", "type": "phoneNumber" }
+    },
+    "template": "customer",
+    "createTimestamp": 1675703261303,
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "sUr11tTi4oeImYqoefgO"
+        ]
+      },
+      "_converter": {}
+    },
+    "creator": { "photoURL": null, "displayName": null, "phoneNumber": null },
+    "dates": [],
+    "products": []
+  },
+  {
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "IjwEyPErdQB6p89SvR6z"
+        ]
+      },
+      "_converter": {}
+    },
+    "dates": [],
+    "creator": { "phoneNumber": null, "displayName": null, "photoURL": null },
+    "dateConflict": false,
+    "report": "type",
+    "attachment": {
+      "Moratium": { "type": "number", "value": "" },
+      "Weekly Off": { "value": "", "type": "weekday" },
+      "Early Payment Rate": { "value": "", "type": "number" },
+      "Vendor Code": { "value": "", "type": "string" },
+      "Daily Start Time": { "value": "", "type": "HH:MM" },
+      "isTenant": { "value": "", "type": "boolean" },
+      "Daily End Time": { "value": "", "type": "HH:MM" },
+      "First Contact": { "value": "+910000000000", "type": "phoneNumber" },
+      "First Contact Name": {
+        "type": "string",
+        "value": "Harakh chand kalu ram"
+      },
+      "Address": {
+        "type": "string",
+        "value": "26/4 3RD JHAGRA, ARMENIAN BURRABAZAR, West Bengal, 700001"
+      },
+      "TDS": { "value": "", "type": "number" },
+      "First Contact Email": {
+        "type": "string",
+        "value": "archive@eqlfin.com"
+      },
+      "Name": { "value": "BURRABAZAR [object Object]", "type": "string" },
+      "Place ID": { "type": "string", "value": "" },
+      "Supplier Address": { "value": "", "type": "string" },
+      "GST Number": { "value": "19AFUPK1605C1ZJ", "type": "string" }
+    },
+    "activityName": "BURRABAZAR [object Object]",
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "Logs": {
+      "19AFUPK1605C1ZJ": {
+        "dst": "Kolkata",
+        "lt": "",
+        "flno": "3RD",
+        "city": "",
+        "pncd": "700001",
+        "bno": "26/4",
+        "stcd": "West Bengal",
+        "loc": "BURRABAZAR",
+        "st": "ARMENIAN",
+        "office": "HARAKH CHAND KALURAM",
+        "bnm": "JHAGRA",
+        "lg": ""
+      },
+      "pan": "AFUPK1605C"
+    },
+    "schedule": [
+      { "endTime": 0, "name": "Holiday 1", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 2", "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 3" },
+      { "name": "Holiday 4", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 5" },
+      { "name": "Holiday 6", "startTime": 0, "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 7" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 8" },
+      { "endTime": 0, "name": "Holiday 9", "startTime": 0 },
+      { "name": "Holiday 10", "endTime": 0, "startTime": 0 },
+      { "name": "Holiday 11", "endTime": 0, "startTime": 0 },
+      { "name": "Holiday 12", "endTime": 0, "startTime": 0 },
+      { "name": "Holiday 13", "startTime": 0, "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 14", "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 15" }
+    ],
+    "timestamp": 1675703199721,
+    "products": [],
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "canEditRule": "ADMIN",
+    "venue": [
+      {
+        "location": "",
+        "geopoint": { "latitude": 22.5794674, "longitude": 88.3536283 },
+        "address": "26/4 3RD JHAGRA, ARMENIAN BURRABAZAR, West Bengal, 700001",
+        "venueDescriptor": "Customer Office"
+      }
+    ],
+    "template": "customer",
+    "status": "CONFIRMED",
+    "createTimestamp": 1675703199722
+  },
+  {
+    "attachment": {
+      "First Contact": { "value": "+919893866765", "type": "phoneNumber" },
+      "First Contact Name": { "type": "string", "value": "Brijesh Gupta" },
+      "GST Number": { "type": "string", "value": "23AXGPG7375R1ZT" },
+      "TDS": { "value": "", "type": "number" },
+      "Daily End Time": { "type": "HH:MM", "value": "" },
+      "Weekly Off": { "type": "weekday", "value": "" },
+      "Place ID": { "type": "string", "value": "" },
+      "isTenant": { "type": "boolean", "value": "" },
+      "Moratium": { "value": "", "type": "number" },
+      "Name": { "value": "KARAHAL [object Object]", "type": "string" },
+      "First Contact Email": {
+        "value": "priyatraders43021@gmail.com",
+        "type": "string"
+      },
+      "Vendor Code": { "value": "", "type": "string" },
+      "Address": {
+        "value": "01  , MAIN BAZAR KARAHAL, Madhya Pradesh, 476355",
+        "type": "string"
+      },
+      "Early Payment Rate": { "value": "", "type": "number" },
+      "Daily Start Time": { "value": "", "type": "HH:MM" },
+      "Supplier Address": { "value": "", "type": "string" }
+    },
+    "status": "CONFIRMED",
+    "dates": [],
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "65YV2kTMdiRU7xqBb8U5"
+        ]
+      },
+      "_converter": {}
+    },
+    "timestamp": 1675703698222,
+    "creator": { "photoURL": null, "displayName": null, "phoneNumber": null },
+    "activityName": "KARAHAL [object Object]",
+    "products": [],
+    "dateConflict": false,
+    "venue": [
+      {
+        "geopoint": { "latitude": 25.4802432, "longitude": 77.03917539999999 },
+        "venueDescriptor": "Customer Office",
+        "location": "",
+        "address": "01  , MAIN BAZAR KARAHAL, Madhya Pradesh, 476355"
+      }
+    ],
+    "schedule": [
+      { "name": "Holiday 1", "startTime": 0, "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 2", "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 3", "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 4", "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 5" },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 6" },
+      { "endTime": 0, "name": "Holiday 7", "startTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 8" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 9" },
+      { "endTime": 0, "name": "Holiday 10", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 11", "endTime": 0 },
+      { "name": "Holiday 12", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 13", "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 14" },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 15" }
+    ],
+    "Logs": {
+      "23AXGPG7375R1ZT": {
+        "lg": "",
+        "bno": "01",
+        "pncd": "476355",
+        "office": "PRIYA TRADERS",
+        "flno": "",
+        "st": "MAIN BAZAR",
+        "city": "",
+        "stcd": "Madhya Pradesh",
+        "dst": "Sheopur",
+        "loc": "KARAHAL",
+        "bnm": "",
+        "lt": ""
+      },
+      "pan": "AXGPG7375R"
+    },
+    "canEditRule": "ADMIN",
+    "report": "type",
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "createTimestamp": 1675703698223,
+    "template": "customer"
+  },
+  {
+    "activityName": "BIKANER [object Object]",
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "schedule": [
+      { "endTime": 0, "startTime": 0, "name": "Holiday 1" },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 2" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 3" },
+      { "name": "Holiday 4", "endTime": 0, "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 5", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 6", "endTime": 0 },
+      { "name": "Holiday 7", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 8", "endTime": 0 },
+      { "name": "Holiday 9", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 10", "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 11" },
+      { "startTime": 0, "name": "Holiday 12", "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 13" },
+      { "name": "Holiday 14", "endTime": 0, "startTime": 0 },
+      { "name": "Holiday 15", "endTime": 0, "startTime": 0 }
+    ],
+    "venue": [
+      {
+        "location": "",
+        "venueDescriptor": "Customer Office",
+        "address": "NEAR MUNICIPAL OFFICE  , CHOUDHARY QUARTER HANUMAN HATHA BIKANER, Rajasthan, 334001",
+        "geopoint": { "longitude": 73.3244449, "latitude": 28.0252025 }
+      }
+    ],
+    "report": "type",
+    "timestamp": 1675703718970,
+    "creator": { "phoneNumber": null, "photoURL": null, "displayName": null },
+    "dateConflict": false,
+    "canEditRule": "ADMIN",
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "createTimestamp": 1675703718970,
+    "status": "CONFIRMED",
+    "dates": [],
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "oxVMzyPjYCnCILcneOmU"
+        ]
+      },
+      "_converter": {}
+    },
+    "attachment": {
+      "Moratium": { "value": "", "type": "number" },
+      "GST Number": { "type": "string", "value": "08APIPP9384D1ZE" },
+      "Address": {
+        "value": "NEAR MUNICIPAL OFFICE  , CHOUDHARY QUARTER HANUMAN HATHA BIKANER, Rajasthan, 334001",
+        "type": "string"
+      },
+      "Early Payment Rate": { "type": "number", "value": "" },
+      "Daily Start Time": { "type": "HH:MM", "value": "" },
+      "First Contact Email": {
+        "value": "mayankpareek1988@gmail.com",
+        "type": "string"
+      },
+      "Vendor Code": { "type": "string", "value": "" },
+      "TDS": { "type": "number", "value": "" },
+      "Weekly Off": { "type": "weekday", "value": "" },
+      "Name": { "value": "BIKANER [object Object]", "type": "string" },
+      "Supplier Address": { "value": "", "type": "string" },
+      "First Contact": { "value": "+919461376574", "type": "phoneNumber" },
+      "isTenant": { "value": "", "type": "boolean" },
+      "Daily End Time": { "type": "HH:MM", "value": "" },
+      "Place ID": { "type": "string", "value": "" },
+      "First Contact Name": { "value": "Mayank Pareek", "type": "string" }
+    },
+    "template": "customer",
+    "products": [],
+    "Logs": {
+      "pan": "APIPP9384D",
+      "08APIPP9384D1ZE": {
+        "bnm": "",
+        "flno": "",
+        "lg": "",
+        "st": "CHOUDHARY QUARTER HANUMAN HATHA",
+        "loc": "BIKANER",
+        "lt": "",
+        "stcd": "Rajasthan",
+        "pncd": "334001",
+        "city": "",
+        "office": "SHARDA ENTERPRISES ",
+        "dst": "Bikaner",
+        "bno": "NEAR MUNICIPAL OFFICE"
+      }
+    }
+  },
+  {
+    "template": "customer",
+    "dates": [],
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "timestamp": 1675703257739,
+    "venue": [
+      {
+        "address": "59/2/8 GROUND FLOOR SITE IV , SAHIBABAD INDUSTRIAL AREA, GHAZIABAD GHAZIABAD, Uttar Pradesh, 201010",
+        "geopoint": { "longitude": 77.3410569, "latitude": 28.6609173 },
+        "location": "",
+        "venueDescriptor": "Customer Office"
+      }
+    ],
+    "status": "CONFIRMED",
+    "report": "type",
+    "canEditRule": "ADMIN",
+    "createTimestamp": 1675703257739,
+    "creator": { "photoURL": null, "displayName": null, "phoneNumber": null },
+    "products": [],
+    "attachment": {
+      "Moratium": { "value": "", "type": "number" },
+      "Daily End Time": { "type": "HH:MM", "value": "" },
+      "First Contact": { "type": "phoneNumber", "value": "+919811299958" },
+      "Early Payment Rate": { "value": "", "type": "number" },
+      "isTenant": { "type": "boolean", "value": "" },
+      "Name": { "type": "string", "value": "GHAZIABAD [object Object]" },
+      "First Contact Name": { "value": "Anju", "type": "string" },
+      "Address": {
+        "value": "59/2/8 GROUND FLOOR SITE IV , SAHIBABAD INDUSTRIAL AREA, GHAZIABAD GHAZIABAD, Uttar Pradesh, 201010",
+        "type": "string"
+      },
+      "Place ID": { "value": "", "type": "string" },
+      "First Contact Email": {
+        "value": "kppldelhi@puritytex.com",
+        "type": "string"
+      },
+      "Supplier Address": { "type": "string", "value": "" },
+      "Weekly Off": { "type": "weekday", "value": "" },
+      "GST Number": { "value": "09AAACK1791K1Z9", "type": "string" },
+      "TDS": { "type": "number", "value": "" },
+      "Daily Start Time": { "type": "HH:MM", "value": "" },
+      "Vendor Code": { "value": "", "type": "string" }
+    },
+    "schedule": [
+      { "endTime": 0, "name": "Holiday 1", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 2", "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 3" },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 4" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 5" },
+      { "endTime": 0, "name": "Holiday 6", "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 7" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 8" },
+      { "name": "Holiday 9", "endTime": 0, "startTime": 0 },
+      { "name": "Holiday 10", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 11" },
+      { "endTime": 0, "name": "Holiday 12", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 13", "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 14" },
+      { "startTime": 0, "name": "Holiday 15", "endTime": 0 }
+    ],
+    "activityName": "GHAZIABAD [object Object]",
+    "Logs": {
+      "09AAACK1791K1Z9": {
+        "bno": "59/2/8",
+        "flno": "GROUND FLOOR",
+        "city": "",
+        "pncd": "201010",
+        "lg": "",
+        "bnm": "SITE IV , SAHIBABAD INDUSTRIAL AREA",
+        "st": "GHAZIABAD",
+        "office": "KHOSLA PROFIL PRIVATE LTD",
+        "loc": "GHAZIABAD",
+        "dst": "Ghaziabad",
+        "lt": "",
+        "stcd": "Uttar Pradesh"
+      },
+      "pan": "AAACK1791K"
+    },
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "x02ryUemanjnvSeqU1Kc"
+        ]
+      },
+      "_converter": {}
+    },
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "dateConflict": false
+  },
+  {
+    "timestamp": 1675703683343,
+    "dates": [],
+    "canEditRule": "ADMIN",
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "Logs": {
+      "pan": "ADTPS9913N",
+      "08ADTPS9913N1ZD": {
+        "lg": "",
+        "office": "MADAN ELECTRIC WORKS",
+        "pncd": "334001",
+        "stcd": "Rajasthan",
+        "bno": "INDISTRIAL AREA",
+        "st": "RANI BAZAR",
+        "lt": "",
+        "city": "",
+        "loc": "BIKANER",
+        "flno": "",
+        "dst": "Bikaner",
+        "bnm": ""
+      }
+    },
+    "createTimestamp": 1675703683343,
+    "products": [],
+    "template": "customer",
+    "creator": { "displayName": null, "phoneNumber": null, "photoURL": null },
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "7fnF6P8FVjVDelPL61mQ"
+        ]
+      },
+      "_converter": {}
+    },
+    "dateConflict": false,
+    "schedule": [
+      { "name": "Holiday 1", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 2" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 3" },
+      { "startTime": 0, "name": "Holiday 4", "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 5", "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 6" },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 7" },
+      { "startTime": 0, "name": "Holiday 8", "endTime": 0 },
+      { "endTime": 0, "name": "Holiday 9", "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 10", "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 11", "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 12", "startTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 13" },
+      { "startTime": 0, "name": "Holiday 14", "endTime": 0 },
+      { "endTime": 0, "name": "Holiday 15", "startTime": 0 }
+    ],
+    "status": "CONFIRMED",
+    "report": "type",
+    "activityName": "BIKANER [object Object]",
+    "venue": [
+      {
+        "venueDescriptor": "Customer Office",
+        "geopoint": { "latitude": 28.0036719, "longitude": 73.3218663 },
+        "location": "",
+        "address": "INDISTRIAL AREA  , RANI BAZAR BIKANER, Rajasthan, 334001"
+      }
+    ],
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "attachment": {
+      "Daily End Time": { "type": "HH:MM", "value": "" },
+      "isTenant": { "value": "", "type": "boolean" },
+      "Name": { "type": "string", "value": "BIKANER [object Object]" },
+      "Place ID": { "type": "string", "value": "" },
+      "Moratium": { "value": "", "type": "number" },
+      "First Contact": { "type": "phoneNumber", "value": "+910000000000" },
+      "GST Number": { "value": "08ADTPS9913N1ZD", "type": "string" },
+      "TDS": { "type": "number", "value": "" },
+      "Daily Start Time": { "value": "", "type": "HH:MM" },
+      "Vendor Code": { "type": "string", "value": "" },
+      "Supplier Address": { "value": "", "type": "string" },
+      "First Contact Email": {
+        "type": "string",
+        "value": "archive@eqlfin.com"
+      },
+      "Early Payment Rate": { "value": "", "type": "number" },
+      "First Contact Name": {
+        "value": "Madan electric works",
+        "type": "string"
+      },
+      "Address": {
+        "value": "INDISTRIAL AREA  , RANI BAZAR BIKANER, Rajasthan, 334001",
+        "type": "string"
+      },
+      "Weekly Off": { "type": "weekday", "value": "" }
+    }
+  },
+  {
+    "template": "customer",
+    "products": [],
+    "schedule": [
+      { "endTime": 0, "name": "Holiday 1", "startTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 2" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 3" },
+      { "name": "Holiday 4", "endTime": 0, "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 5", "endTime": 0 },
+      { "endTime": 0, "name": "Holiday 6", "startTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 7" },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 8" },
+      { "startTime": 0, "name": "Holiday 9", "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 10" },
+      { "endTime": 0, "name": "Holiday 11", "startTime": 0 },
+      { "name": "Holiday 12", "startTime": 0, "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 13" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 14" },
+      { "startTime": 0, "name": "Holiday 15", "endTime": 0 }
+    ],
+    "activityName": "BAGRU [object Object]",
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "attachment": {
+      "Moratium": { "value": "", "type": "number" },
+      "Vendor Code": { "type": "string", "value": "" },
+      "First Contact Name": { "value": "Sunil", "type": "string" },
+      "Name": { "value": "BAGRU [object Object]", "type": "string" },
+      "Place ID": { "type": "string", "value": "" },
+      "First Contact Email": {
+        "type": "string",
+        "value": "tirupatipolymerindustries@gmail.com"
+      },
+      "First Contact": { "value": "+917023999274", "type": "phoneNumber" },
+      "TDS": { "value": "", "type": "number" },
+      "Daily Start Time": { "value": "", "type": "HH:MM" },
+      "Address": {
+        "value": "P.NO. G-59  , RIICO INDUSTRIAL AREA EXTENSION BAGRU, Rajasthan, 303007",
+        "type": "string"
+      },
+      "Daily End Time": { "value": "", "type": "HH:MM" },
+      "Weekly Off": { "value": "", "type": "weekday" },
+      "isTenant": { "value": "", "type": "boolean" },
+      "GST Number": { "type": "string", "value": "08BHAPS5879P2Z9" },
+      "Early Payment Rate": { "value": "", "type": "number" },
+      "Supplier Address": { "type": "string", "value": "" }
+    },
+    "createTimestamp": 1675703734417,
+    "canEditRule": "ADMIN",
+    "status": "CONFIRMED",
+    "Logs": {
+      "08BHAPS5879P2Z9": {
+        "loc": "BAGRU",
+        "st": "RIICO INDUSTRIAL AREA EXTENSION",
+        "stcd": "Rajasthan",
+        "lg": "",
+        "pncd": "303007",
+        "flno": "",
+        "dst": "Jaipur",
+        "lt": "",
+        "office": "TIRUPATI POLYMER INDUSTRIES",
+        "bnm": "",
+        "city": "",
+        "bno": "P.NO. G-59"
+      },
+      "pan": "BHAPS5879P"
+    },
+    "timestamp": 1675703734417,
+    "dateConflict": false,
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "UvgwBYbNfeyWyjSarcQ5"
+        ]
+      },
+      "_converter": {}
+    },
+    "venue": [
+      {
+        "venueDescriptor": "Customer Office",
+        "location": "",
+        "geopoint": { "latitude": 26.8078123, "longitude": 75.5401734 },
+        "address": "P.NO. G-59  , RIICO INDUSTRIAL AREA EXTENSION BAGRU, Rajasthan, 303007"
+      }
+    ],
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED",
+    "report": "type",
+    "dates": [],
+    "creator": { "displayName": null, "photoURL": null, "phoneNumber": null }
+  },
+  {
+    "timestamp": 1675703730982,
+    "attachment": {
+      "Name": { "type": "string", "value": "Surat [object Object]" },
+      "First Contact Name": { "value": "Devang Kadiwala", "type": "string" },
+      "Daily Start Time": { "type": "HH:MM", "value": "" },
+      "Moratium": { "value": "", "type": "number" },
+      "isTenant": { "type": "boolean", "value": "" },
+      "First Contact Email": {
+        "value": "suhavya20@gmail.com",
+        "type": "string"
+      },
+      "Daily End Time": { "value": "", "type": "HH:MM" },
+      "First Contact": { "value": "+919825113686", "type": "phoneNumber" },
+      "Address": {
+        "value": "Plot No 9, Survey No 168 Ground Floor Shri Ganesh Ind Co Op Society Ltd, Udhna Magdalla Road Surat, Gujarat, 395017",
+        "type": "string"
+      },
+      "GST Number": { "value": "24AAUPK4381Q1ZU", "type": "string" },
+      "Vendor Code": { "value": "", "type": "string" },
+      "Place ID": { "type": "string", "value": "" },
+      "Weekly Off": { "value": "", "type": "weekday" },
+      "Early Payment Rate": { "type": "number", "value": "" },
+      "TDS": { "value": "", "type": "number" },
+      "Supplier Address": { "value": "", "type": "string" }
+    },
+    "Logs": {
+      "24AAUPK4381Q1ZU": {
+        "pncd": "395017",
+        "flno": "Ground Floor",
+        "loc": "Surat",
+        "lt": "",
+        "city": "",
+        "bnm": "Shri Ganesh Ind Co Op Society Ltd",
+        "office": "SUHAVYA",
+        "dst": "Surat",
+        "bno": "Plot No 9, Survey No 168",
+        "stcd": "Gujarat",
+        "lg": "",
+        "st": "Udhna Magdalla Road"
+      },
+      "pan": "AAUPK4381Q"
+    },
+    "products": [],
+    "dates": [],
+    "createTimestamp": 1675703730982,
+    "status": "CONFIRMED",
+    "report": "type",
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "m8m1DJwUHpMaOlsBSXaw"
+        ]
+      },
+      "_converter": {}
+    },
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "venue": [
+      {
+        "geopoint": { "longitude": 72.8238915, "latitude": 21.16557 },
+        "venueDescriptor": "Customer Office",
+        "location": "",
+        "address": "Plot No 9, Survey No 168 Ground Floor Shri Ganesh Ind Co Op Society Ltd, Udhna Magdalla Road Surat, Gujarat, 395017"
+      }
+    ],
+    "schedule": [
+      { "name": "Holiday 1", "startTime": 0, "endTime": 0 },
+      { "endTime": 0, "name": "Holiday 2", "startTime": 0 },
+      { "name": "Holiday 3", "endTime": 0, "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 4", "startTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 5" },
+      { "startTime": 0, "name": "Holiday 6", "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 7" },
+      { "name": "Holiday 8", "startTime": 0, "endTime": 0 },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 9" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 10" },
+      { "startTime": 0, "name": "Holiday 11", "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 12", "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 13" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 14" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 15" }
+    ],
+    "activityName": "Surat [object Object]",
+    "dateConflict": false,
+    "canEditRule": "ADMIN",
+    "creator": { "displayName": null, "phoneNumber": null, "photoURL": null },
+    "template": "customer",
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED"
+  },
+  {
+    "addendumDocRef": {
+      "_firestore": { "projectId": "growthfile-207204" },
+      "_path": {
+        "segments": [
+          "Offices",
+          "zJRYSRyBAEeqj8A3od7u",
+          "Addendum",
+          "wl2OlLsKlPC1t7FECxjk"
+        ]
+      },
+      "_converter": {}
+    },
+    "products": [],
+    "canEditRule": "ADMIN",
+    "creator": { "displayName": null, "photoURL": null, "phoneNumber": null },
+    "dateConflict": false,
+    "attachment": {
+      "Name": { "value": "GUNDRAMPALLY [object Object]", "type": "string" },
+      "Supplier Address": { "type": "string", "value": "" },
+      "First Contact Name": { "type": "string", "value": "Adarsh Patwari" },
+      "Address": {
+        "value": "SURVEY NO 559  , AYPOOR ROAD GUNDRAMPALLY, Telangana, 508114",
+        "type": "string"
+      },
+      "Vendor Code": { "type": "string", "value": "" },
+      "Place ID": { "value": "", "type": "string" },
+      "isTenant": { "type": "boolean", "value": "" },
+      "Weekly Off": { "value": "", "type": "weekday" },
+      "Early Payment Rate": { "value": "", "type": "number" },
+      "First Contact Email": {
+        "type": "string",
+        "value": "adarsh@rege-engredea.com"
+      },
+      "Daily Start Time": { "type": "HH:MM", "value": "" },
+      "First Contact": { "value": "+919390738039", "type": "phoneNumber" },
+      "TDS": { "type": "number", "value": "" },
+      "Daily End Time": { "type": "HH:MM", "value": "" },
+      "Moratium": { "value": "", "type": "number" },
+      "GST Number": { "type": "string", "value": "36AAMCA6111H2ZS" }
+    },
+    "timestamp": 1675703702771,
+    "Logs": {
+      "pan": "AAMCA6111H",
+      "36AAMCA6111H2ZS": {
+        "dst": "Nalgonda",
+        "st": "AYPOOR ROAD",
+        "city": "",
+        "pncd": "508114",
+        "bnm": "",
+        "stcd": "Telangana",
+        "lg": "",
+        "loc": "GUNDRAMPALLY",
+        "office": "ReGe Engredea Pvt Ltd",
+        "flno": "",
+        "bno": "SURVEY NO 559",
+        "lt": ""
+      }
+    },
+    "dates": [],
+    "report": "type",
+    "officeId": "zJRYSRyBAEeqj8A3od7u",
+    "createTimestamp": 1675703702771,
+    "venue": [
+      {
+        "venueDescriptor": "Customer Office",
+        "location": "",
+        "address": "SURVEY NO 559  , AYPOOR ROAD GUNDRAMPALLY, Telangana, 508114",
+        "geopoint": { "longitude": 78.9839678, "latitude": 17.2333594 }
+      }
+    ],
+    "activityName": "GUNDRAMPALLY [object Object]",
+    "template": "customer",
+    "status": "CONFIRMED",
+    "schedule": [
+      { "name": "Holiday 1", "startTime": 0, "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 2" },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 3" },
+      { "startTime": 0, "endTime": 0, "name": "Holiday 4" },
+      { "endTime": 0, "name": "Holiday 5", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 6", "endTime": 0 },
+      { "startTime": 0, "name": "Holiday 7", "endTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 8" },
+      { "startTime": 0, "name": "Holiday 9", "endTime": 0 },
+      { "name": "Holiday 10", "endTime": 0, "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 11", "startTime": 0 },
+      { "startTime": 0, "name": "Holiday 12", "endTime": 0 },
+      { "endTime": 0, "name": "Holiday 13", "startTime": 0 },
+      { "endTime": 0, "name": "Holiday 14", "startTime": 0 },
+      { "endTime": 0, "startTime": 0, "name": "Holiday 15" }
+    ],
+    "office": "DOLCAS BOTANOSYS PRIVATE LIMITED"
+  }
+]
